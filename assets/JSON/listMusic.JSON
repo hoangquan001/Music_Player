@@ -1,0 +1,40 @@
+{
+    "song": [
+        {
+            "Name": "Ai mang cô đơn đi",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        },
+        {
+            "Name": "Co Ấy Đã Từng",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        },
+        {
+            "Name": "Họa Mây",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        },
+        
+        {
+            "Name": "Sầu Hồng Gai",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        },
+        {
+            "Name": "Tướng Quân",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        },
+        {
+            "Name": "Vô Tình",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        },
+        {
+            "Name": "Yêu là cưới",
+            "singer": "K-ATM",
+            "path": "./assets/img/AiMangCoDonDI.png"
+        }
+    ]
+}
